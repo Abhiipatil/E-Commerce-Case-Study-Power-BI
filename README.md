@@ -4,5 +4,5 @@ The datasets were ECom provided by the client. The data is about the customer be
 
 ## Datasets :- 
 1. Sales Data E Commerce :- Contains the entire customer behaviour data.
-2. Promotion :- The data of promotional events of that day
+2. Promotion :- The data of promotional events of that day.
     
